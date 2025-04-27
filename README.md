@@ -71,7 +71,7 @@ library_management_system/
 
 1. Clone the repository:
    ```bash
-   Token canot written due to some security. For, token contact us.
+   Token canot written due to some security. For, token contact us.(bell38527@gmail.com)
    cd Backend-Using-FastAPI
    ```
 
@@ -193,4 +193,4 @@ curl -X 'POST' \
 3. Implement CRUD operations in `app/crud/`
 4. Add API endpoints in `app/api/routes/`
 5. Implement react
-
+6. Implement Alembic For migrations
