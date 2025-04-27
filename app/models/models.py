@@ -1,3 +1,5 @@
+# The model will be changed in furture
+
 from sqlalchemy import Column, ForeignKey, Integer, String, Boolean, Date, DateTime, func
 from sqlalchemy.orm import relationship
 from datetime import datetime, timedelta
