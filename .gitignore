@@ -1,0 +1,39 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Cache directories
+__pycache__/
+
+# Virtual environment files
+venv/
+env/
+
+# Environment variables
+*.env
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# Dependency files
+*.lock
+pip-log.txt
+
+# Build directories
+build/
+dist/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# Test artifacts
+.coverage
+tests/__pycache__/
