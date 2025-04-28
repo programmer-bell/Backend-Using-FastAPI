@@ -6,6 +6,7 @@ from app.models.models import Loan, Book, Member
 from app.schemas.loan import LoanCreate, LoanUpdate
 
 
+
 def get_loan(db, loan_id: int):
     """Get a loan by ID"""
     result = db.execute(

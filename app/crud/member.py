@@ -1,6 +1,5 @@
 from sqlalchemy import select, update, delete
 from typing import Optional, List
-
 from app.models.models import Member
 from app.schemas.member import MemberCreate, MemberUpdate
 

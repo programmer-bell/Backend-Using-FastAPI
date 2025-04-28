@@ -2,7 +2,6 @@ from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select, update, delete
 from sqlalchemy.orm import selectinload
 from typing import Optional, List
-
 from app.models.models import Book
 from app.schemas.book import BookCreate, BookUpdate
 
