@@ -1,3 +1,7 @@
+# Change will be in the future
+# This schemas file defines the data models for the Loan entity in a library management system.
+# It includes the base model, create and update models, and response models for API interactions.
+# This file is part of a library management system and is licensed under the MIT License.
 from pydantic import BaseModel, Field
 from typing import Optional
 from datetime import date, datetime
