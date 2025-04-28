@@ -4,7 +4,6 @@ from typing import List, Optional
 from app.database.db import get_db
 from app.schemas.member import MemberCreate, MemberUpdate, MemberResponse
 from app.crud import member as member_crud
-
 router = APIRouter(
     prefix="/members",
     tags=["members"],
