@@ -1,3 +1,5 @@
+# The crud will be changed .It will be asynchronous  in furture
+
 from sqlalchemy import select, update, delete, and_
 from sqlalchemy.orm import joinedload
 from typing import Optional, List

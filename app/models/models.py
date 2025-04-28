@@ -6,6 +6,7 @@ from datetime import datetime, timedelta
 from app.database.db import Base
 
 
+
 class Book(Base):
     __tablename__ = "books"
 

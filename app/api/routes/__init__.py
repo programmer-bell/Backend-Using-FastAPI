@@ -1,5 +1,4 @@
-# Use relative imports with dots
+# Solve the problem
 from . import book, members, loans
 
-# You can also export them if needed
 __all__ = ['book', 'members', 'loans']

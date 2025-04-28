@@ -1,3 +1,5 @@
+# The crud will be changed .It will be asynchronous  in furture
+
 from sqlalchemy import select, update, delete
 from typing import Optional, List
 from app.models.models import Member
