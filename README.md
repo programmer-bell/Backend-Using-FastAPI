@@ -20,7 +20,7 @@ A comprehensive API for managing library resources, built with FastAPI and Postg
 ## Project Structure
 
 ```
-library_management_system/
+backend-using-fastapi/
 │
 ├── app/
 │   ├── __init__.py
@@ -55,7 +55,7 @@ library_management_system/
 │   └── database/
 │       ├── __init__.py
 │       └── db.py
-│
+│__ run.py
 ├── requirements.txt
 └── .env
 ```
@@ -71,7 +71,7 @@ library_management_system/
 
 1. Clone the repository:
    ```bash
-   Token canot written due to some security. For, token contact us.(bell38527@gmail.com)
+   git clone https://github.com/programmer-bell/Backend-Using-FastAPI.git
    cd Backend-Using-FastAPI
    ```
 
